@@ -1,3 +1,7 @@
+# 代码注释
+[theano-xnor-net代码注释](https://blog.csdn.net/l297969586/article/list/3?t=1)
+
+
 # Theano Implementation of XNOR-Net
 ------------------------------------------
 This is the python based implentation of XNOR-Net([this paper](http://arxiv.org/pdf/1603.05279v3.pdf)) using Theano. New derived layer classes for Lasagne are implemented to support the XNOR-Net Convolution and Fully connected layers. The implementation is used to train and test convnets on MNIST and CIFAR-10 classification tasks. This project is tested on python 2.7. 
